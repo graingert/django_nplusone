@@ -50,3 +50,6 @@ You should see a log message with a message that looks like this:
 
 where `<?>` will have correct values for the fields derived from call stack pointing you to the statement that has
 possible N+1
+
+## See also
+https://github.com/jmcarp/nplusone
